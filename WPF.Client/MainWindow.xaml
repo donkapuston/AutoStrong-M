@@ -13,7 +13,7 @@
         TextOptions.TextRenderingMode="Auto"
         Background="{DynamicResource MaterialDesignPaper}"
         FontFamily="{DynamicResource MaterialDesignFont}"
-        Title="MainWindow" Height="550" Width="550"
+        Title="AutoStrong-M" Height="550" Width="550"
         HorizontalAlignment="Center"
         VerticalAlignment="Center">
     <Grid Background="#ffdadada">
